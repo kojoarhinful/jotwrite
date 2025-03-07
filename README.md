@@ -1,2 +1,2 @@
-# jotwrite
-Your quick note taking space
+ JotWrite
+> COMING SOON..!
